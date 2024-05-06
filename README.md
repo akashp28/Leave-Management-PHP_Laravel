@@ -40,7 +40,7 @@ This is a simple Leave Management System built using Laravel, designed for both 
    - Create a database named `leavemanagement` in SQL Server.
    - Import the database schema using `leavemanagement.sql`.
 3. **Environment Configuration:**
-   - Update the `.env` file with your mail and Pusher configuration details.
+   - Update the `.env` file with your mail,Pusher and SQL Server configuration details.
 4. **Serve Application:**
    - Open a terminal and navigate to the project directory.
    - Run `php artisan serve`.
